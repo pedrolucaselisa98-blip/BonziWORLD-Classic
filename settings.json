@@ -105,6 +105,8 @@
 		"peedy",
 		"gold",
 		"white",
+		"invert",
+		"invertpeedy",
 		"brown"
 	],
 	"banLength": 1440,
