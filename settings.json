@@ -108,6 +108,9 @@
 		"invert",
 		"invertpeedy",
 		"dunce",
+		"maxalert",
+		"qmark",
+		"invertmaxalert",
 		"brown"
 	],
 	"banLength": 1440,
