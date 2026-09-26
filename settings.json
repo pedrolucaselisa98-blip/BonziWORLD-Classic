@@ -111,6 +111,10 @@
 		"maxalert",
 		"qmark",
 		"invertmaxalert",
+		"magenta",
+		"cyan",
+		"chocolate",
+		"pink",
 		"brown"
 	],
 	"banLength": 1440,
